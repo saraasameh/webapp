@@ -1,0 +1,4 @@
+{
+    "12345": {"username": "JohnDoe", "password": "pass123"},
+    "67890": {"username": "JaneSmith", "password": "secure456"}
+}
